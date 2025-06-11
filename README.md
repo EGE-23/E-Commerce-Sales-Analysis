@@ -1,6 +1,7 @@
 Kaggle dataset: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
-(ENG)# 🛒 E-Commerce Sales Analysis
+(ENG)
+# 🛒 E-Commerce Sales Analysis
 
 Welcome to the **E-Commerce Sales Analysis** project!  
 In this notebook, we perform a comprehensive analysis of sales data to uncover meaningful insights and trends.
@@ -36,7 +37,8 @@ Thanks for visiting! ⭐
 
 
 
-(TR) # 🛒 E-Ticaret Satış Analizi
+(TR) 
+# 🛒 E-Ticaret Satış Analizi
 
 **E-Ticaret Satış Analizi** projesine hoş geldiniz!  
 Bu notebook'ta satış verileri üzerinde kapsamlı bir analiz yaparak anlamlı içgörüler ve eğilimler ortaya çıkarıyoruz.
