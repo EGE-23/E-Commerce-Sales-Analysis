@@ -1,3 +1,5 @@
+Kaggle data set: https://www.kaggle.com/datasets/carrie1/ecommerce-data
+
 (ENG)# 🛒 E-Commerce Sales Analysis
 
 Welcome to the **E-Commerce Sales Analysis** project!  
